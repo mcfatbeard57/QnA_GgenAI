@@ -13,7 +13,7 @@ This project leverages cutting-edge AI technologies to create a robust and versa
 
 * **Intuitive UI:** Streamlit provides a visually appealing and interactive interface for engaging with the system.
 * **Comprehensive Question Handling:** Effectively handles various question types, from factual queries to open-ended inquiries.
-* **Chat hostory:** Stores session chat history with speaker label which can be pushed to a database for later analytics.
+* **Chat hostory:** Streams live session chat history with speaker labels which can be stored to a database for later analytics.
 * **Accurate and Informative Responses:** Strives to deliver truthful, relevant, and well-explained answers leveraging Gemini's LLM capabilities.
 * **Flexible Model Selection:** Choose from different Gemini models based on your specific accuracy and resource requirements.
 * **Continuous Improvement:** Modular design facilitates further enhancements and customization.
